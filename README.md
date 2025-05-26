@@ -35,12 +35,12 @@ If you find this code useful for your research, please use the following BibTeX 
 
 ```
 @article{Liang2024,
-  title={Organ-level instance segmentation enables continuous time-space-spectrum analysis of photoacoustic tomography images},
-  author = {Zhichao Liang, Shuangyang Zhang, Zongxin Mo, Xiaoming Zhang, Anqi Wei, Wufan Chen, Li Qi},
-  journal = {},
-  volume = {},
-  pages = {},
-  year = {},
-  issn = {}  
+  title={Organ-level instance segmentation enables continuous time-space-spectrum analysis of pre-clinical abdominal photoacoustic tomography images},
+  author={Liang, Zhichao and Zhang, Shuangyang and Mo, Zongxin and Zhang, Xiaoming and Wei, Anqi and Chen, Wufan and Qi, Li},
+  journal={Medical Image Analysis},
+  volume={101},
+  pages={103402},
+  year={2025},
+  publisher={Elsevier} 
 }
 ```
