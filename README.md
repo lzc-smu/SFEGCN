@@ -2,7 +2,7 @@
 
 ![city](assets/SFEGCN.bmp)
 
-> [**Organ-level instance segmentation enables continuous time-space-spectrum analysis of photoacoustic tomography images**](https://arxiv.org/pdf/)  
+> [**Organ-level instance segmentation enables continuous time-space-spectrum analysis of photoacoustic tomography images**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400327X/)  
 > Zhichao Liang, Shuangyang Zhang, Zongxin Mo, Xiaoming Zhang, Anqi Wei, Wufan Chen, Li Qi
 
 Any questions or discussions are welcomed!
